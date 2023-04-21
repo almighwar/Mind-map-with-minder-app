@@ -6,8 +6,8 @@ This a mind map of 2 important things, Firstly my English, and Secondly, I wanna
 - minder
 - freemind
 - vym (view your mind)
-- pdf
 - xmind 8
+- pdf
 
 ### Screenshot
 <p align="center"></p>
