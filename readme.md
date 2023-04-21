@@ -4,8 +4,7 @@ This a mind map of 2 important things, Firstly my English, and Secondly, I wanna
 
 ## Files of the maps 
 - minder
-- freemind
-- vym (view your mind)
+- freemind and vym
 - xmind 8
 - pdf
 
