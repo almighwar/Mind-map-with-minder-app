@@ -10,4 +10,4 @@ This a mind map of 2 important things, Firstly my English, and Secondly, I wanna
 
 ### Screenshot
 
-![Screenshot of mind map!](https://i.ibb.co/tZ8vVL3/level-up.png)
+![Screenshot of mind map!](/level-up.png)
