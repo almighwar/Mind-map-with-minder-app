@@ -9,5 +9,5 @@ This a mind map of 2 important things, Firstly my English, and Secondly, I wanna
 - pdf
 
 ### Screenshot
-<p align="center"></p>
-<img src="https://i.ibb.co/tZ8vVL3/level-up.png" alt="img-levelup-readme" border="0">
+
+![Screenshot of mind map!](https://i.ibb.co/tZ8vVL3/level-up.png)
